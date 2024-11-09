@@ -3,8 +3,12 @@
 <!-- Page view Count Service -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=01Prathamesh&label=Profile%20views&color=0e75b6&style=flat" alt="01Prathamesh" /> </p>
 
+<hr style="border: 3px solid grey;">
+
 <!-- Languages and Tools -->
 <h3 class="heading">Languages and Tools</h3>
+
+<hr style="border: 1px solid grey;">
 
 <!-- Programming Languages -->
 <h4>Programming Languages</h4>
@@ -23,6 +27,8 @@
 <a href="https://www.javascript.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40">
 </a>
+
+<hr style="border: 1px solid grey;">
 
 <!-- Frameworks & Libraries -->
 <h4>Frameworks & Libraries</h4>
@@ -54,6 +60,8 @@
     <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="40" height="40">
 </a>
 
+<hr style="border: 1px solid grey;">
+
 <!-- Databases & Cloud Platforms -->
 <h4>Databases & Cloud Platforms</h4>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
@@ -81,11 +89,15 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/SQLite3_logo.svg" alt="SQLite" width="40" height="40">
 </a>
 
+<hr style="border: 1px solid grey;">
+
 <!-- Cloud Storage -->
 <h4>Cloud Storage</h4>
 <a href="https://aws.amazon.com/s3/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_S3_logo.svg" alt="AWS S3" width="40" height="40">
 </a>
+
+<hr style="border: 1px solid grey;">
 
 <!-- Tools -->
 <h4>Tools</h4>
@@ -117,6 +129,8 @@
     <img src="https://pydantic-docs.helpmanual.io/_images/pydantic-logo.png" alt="Pydantic" width="40" height="40">
 </a>
 
+<hr style="border: 1px solid grey;">
+
 <!-- Mobile Development -->
 <h4>Mobile Development</h4>
 <a href="https://dotnet.microsoft.com/en-us/maui" target="_blank" rel="noreferrer">
@@ -125,6 +139,8 @@
 <a href="https://learn.microsoft.com/en-us/dotnet/desktop/xaml/?view=netdesktop-7.0" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/XAML_Logo.svg" alt="XAML" width="40" height="40">
 </a>
+
+<hr style="border: 3px solid grey;">
 
 
 <br>
