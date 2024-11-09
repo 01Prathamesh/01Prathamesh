@@ -148,8 +148,41 @@ I'm comfortable working with a wide range of technologies. Below are the program
 
 
 ## Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/prathamesh-kasar-40459622b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- [Email](mailto:prathamesh000@gmail.com)
+<!-- Responsive Table -->
+<div style="overflow-x: auto; width: 100%;">
+  <table style="width: 100%; border-collapse: collapse;">
+    <tr>
+      <td style="padding: 10px;">
+        <a href="https://github.com/01Prathamesh?tab=repositories">
+          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+        </a>
+        <br>
+        <strong>Projects</strong>
+      </td>
+      <td style="padding: 10px;">
+        <a href="mailto:prathameshkasar000@gmail.com">
+          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+        </a>
+        <br>
+        <strong>Mail Me At</strong>
+      </td>
+      <td style="padding: 10px;">
+        <a href="https://www.linkedin.com/in/prathamesh-kasar-40459622b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        </a>
+        <br>
+        <strong>LinkedIn</strong>
+      </td>
+      <td style="padding: 10px;">
+        <a href="https://github.com/01Prathamesh/01Prathamesh/raw/main/my-resume/Prathamesh_Kasar_Resume.pdf">
+          <img src="https://img.shields.io/badge/Resume-008000?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
+        </a>
+        <br>
+        <strong>Resume</strong>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
