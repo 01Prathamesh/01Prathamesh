@@ -3,7 +3,6 @@
 <!-- Page view Count Service -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=01Prathamesh&label=Profile%20views&color=0e75b6&style=flat" alt="01Prathamesh" /> </p>
 
-
 <!-- Languages and Tools -->
 <h3 class="heading">Languages and Tools</h3>
 
@@ -21,17 +20,8 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40">
 </a>
-<a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40">
-</a>
 <a href="https://www.javascript.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40">
-</a>
-<a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby" width="40" height="40">
-</a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40">
 </a>
 
 <!-- Frameworks & Libraries -->
@@ -48,17 +38,20 @@
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40">
 </a>
-<a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="Gatsby" width="40" height="40">
-</a>
-<a href="https://www.nestjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="40" height="40">
-</a>
-<a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40">
-</a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40">
+</a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express" width="40" height="40">
+</a>
+<a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.django-rest-framework.org/img/logo.png" alt="Django REST Framework" width="40" height="40">
+</a>
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Bootstrap_logo_2020.svg" alt="Bootstrap" width="40" height="40">
+</a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+    <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="40" height="40">
 </a>
 
 <!-- Databases & Cloud Platforms -->
@@ -81,6 +74,18 @@
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40">
 </a>
+<a href="https://railway.app" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/railwayapp/railwayapp-icon.svg" alt="Railway" width="40" height="40">
+</a>
+<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/SQLite3_logo.svg" alt="SQLite" width="40" height="40">
+</a>
+
+<!-- Cloud Storage -->
+<h4>Cloud Storage</h4>
+<a href="https://aws.amazon.com/s3/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_S3_logo.svg" alt="AWS S3" width="40" height="40">
+</a>
 
 <!-- Tools -->
 <h4>Tools</h4>
@@ -93,14 +98,39 @@
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40">
 </a>
-<a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" width="40" height="40">
+<a href="https://pillow.readthedocs.io" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Pillow_logo.svg" alt="Pillow" width="40" height="40">
 </a>
-<a href="https://www.postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40">
+<a href="https://www.npmjs.com/package/body-parser" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/26552444?s=200&v=4" alt="body-parser" width="40" height="40">
+</a>
+<a href="https://dotenv.org" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/npm/dotenv-logo@1.0.0/dotenv-logo.svg" alt="dotenv" width="40" height="40">
+</a>
+<a href="https://motor.readthedocs.io/en/stable/" target="_blank" rel="noreferrer">
+    <img src="https://motor.readthedocs.io/en/stable/_static/motor_logo.png" alt="Motor" width="40" height="40">
+</a>
+<a href="https://www.uvicorn.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.uvicorn.org/_static/uvicorn-logo.12f10731.svg" alt="Uvicorn" width="40" height="40">
+</a>
+<a href="https://pydantic-docs.helpmanual.io/" target="_blank" rel="noreferrer">
+    <img src="https://pydantic-docs.helpmanual.io/_images/pydantic-logo.png" alt="Pydantic" width="40" height="40">
+</a>
+
+<!-- Mobile Development -->
+<h4>Mobile Development</h4>
+<a href="https://dotnet.microsoft.com/en-us/maui" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/.NET_MAUI_logo.svg" alt=".NET MAUI" width="40" height="40">
+</a>
+<a href="https://learn.microsoft.com/en-us/dotnet/desktop/xaml/?view=netdesktop-7.0" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/XAML_Logo.svg" alt="XAML" width="40" height="40">
 </a>
 
 
+<br>
+<br>
+<br>
+<br>
 <!-- GitHub profile trophy service -->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=01Prathamesh" alt="01Prathamesh" /></a> </p>
 
