@@ -8,3 +8,6 @@
 
 <!-- GitHub Readme Most used language Stats -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=01Prathamesh&show_icons=true&locale=en&layout=compact" alt="01Prathamesh" /></p><br><br><br><br><br><br><br><br>
+
+<!-- GitHub README stats card specifically displaying general statistics about their GitHub account, such as the number of public repositories, followers, stars, etc. -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=01Prathamesh&show_icons=true&locale=en" alt="01Prathamesh" /></p>
