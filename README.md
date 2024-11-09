@@ -186,6 +186,9 @@ I'm comfortable working with a wide range of technologies. Below are the program
 
 ---
 
+
+## GitHub Stats
+
 <!-- GitHub Readme Most used language Stats -->
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=01Prathamesh&show_icons=true&locale=en&layout=compact" alt="01Prathamesh" /></p>
 
