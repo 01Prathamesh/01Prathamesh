@@ -174,7 +174,7 @@ I'm comfortable working with a wide range of technologies. Below are the program
         <strong>LinkedIn</strong>
       </td>
       <td style="padding: 10px;">
-        <a href="https://github.com/01Prathamesh/01Prathamesh/raw/main/my-resume/Prathamesh_Kasar_Resume.pdf">
+        <a href="https://github.com/01Prathamesh/01Prathamesh/raw/main/my-resume/Prathamesh Kasar Resume.pdf">
           <img src="https://img.shields.io/badge/Resume-008000?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
         </a>
         <br>
