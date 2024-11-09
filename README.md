@@ -19,8 +19,10 @@ Feel free to check out my projects and connect with me! 🚀
 
 <hr style="border: 3px solid grey;">
 
-<!-- Languages and Tools -->
-<h3 class="heading">Languages and Tools</h3>
+
+## Languages & Tools I Use
+I'm comfortable working with a wide range of technologies. Below are the programming languages, frameworks, databases, and tools I use in my daily development process:
+
 
 <!-- Programming Languages -->
 <h4>Programming Languages</h4>
