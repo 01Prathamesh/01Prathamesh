@@ -1,4 +1,8 @@
-<h1 align="center">My Name is Prathamesh Kasar</h1>
+# Hello, I'm **Prathamesh Kasar** 👋
+
+Welcome to my GitHub profile! I'm a passionate software developer, learner, and tech enthusiast. Here you can find some of my work, explore my repositories, and get an insight into the technologies I love.
+
+Feel free to check out my projects and connect with me! 🚀
 
 <!-- Page view Count Service -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=01Prathamesh&label=Profile%20views&color=0e75b6&style=flat" alt="01Prathamesh" /> </p>
