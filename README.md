@@ -60,16 +60,16 @@ I'm comfortable working with a wide range of technologies. Below are the program
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40">
 </a>
 <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express" width="40" height="40">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express" width="60" height="40">
 </a>
 <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.django-rest-framework.org/img/logo.png" alt="Django REST Framework" width="40" height="40">
+    <img src="https://www.django-rest-framework.org/img/logo.png" alt="Django REST Framework" width="60" height="40">
 </a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Bootstrap_logo_2020.svg" alt="Bootstrap" width="40" height="40">
 </a>
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-    <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="40" height="40">
+    <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="60" height="40">
 </a>
 
 <!-- Databases & Cloud Platforms -->
