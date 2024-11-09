@@ -147,10 +147,11 @@ I'm comfortable working with a wide range of technologies. Below are the program
 <hr style="border: 3px solid grey;">
 
 
-<br>
-<br>
-<br>
-<br>
+## Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/prathamesh-kasar-40459622b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- [Email](mailto:prathamesh000@gmail.com)
+
+---
 
 <!-- GitHub Readme Most used language Stats -->
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=01Prathamesh&show_icons=true&locale=en&layout=compact" alt="01Prathamesh" /></p>
