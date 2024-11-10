@@ -148,9 +148,7 @@ I'm comfortable working with a wide range of technologies. Below are the program
 <!-- Hosting Platforms -->
 <h4>Hosting Platforms</h4>
 <a href="https://vercel.com" target="_blank" rel="noreferrer">
-    <div style="display: inline-block; background-color: white; padding: 10px; border-radius: 5px; text-align: center;">
-        <img src="https://www.svgrepo.com/show/354512/vercel.svg" alt="Vercel" width="40" height="40">
-    </div>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1TTZawKGmI6Bsj8U-z5Bjstobn_CxXj48Sw&s" alt="Vercel" width="40" height="40">
 </a>
 <a href="https://www.netlify.com" target="_blank" rel="noreferrer">
     <img src="https://logowik.com/content/uploads/images/netlify-icon5435.logowik.com.webp" alt="Netlify" width="40" height="40">
