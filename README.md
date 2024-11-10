@@ -94,7 +94,7 @@ I'm comfortable working with a wide range of technologies. Below are the program
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40">
 </a>
 <a href="https://railway.app" target="_blank" rel="noreferrer">
-    <img src="https://railway.app/brand/logo-dark.svg" alt="Railway" width="40" height="40">
+    <img src="https://railway.app/apple-touch-icon.png" alt="Railway" width="40" height="40">
 </a>
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
     <img src="https://e7.pngegg.com/pngimages/890/928/png-clipart-sqlite-logo-sqlite-logo-icons-logos-emojis-tech-companies.png" alt="SQLite" width="40" height="40">
@@ -112,7 +112,7 @@ I'm comfortable working with a wide range of technologies. Below are the program
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40">
 </a>
 <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="40" height="40">
+    <img src="https://media.licdn.com/dms/image/D5612AQHXyBgH7mnUqg/article-cover_image-shrink_720_1280/0/1691804305878?e=2147483647&v=beta&t=Sy3bXZgFG3usM3i761wUl18W3I-vdBtWtBOGDMnTuCk" alt="GitHub" width="40" height="40">
 </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40">
