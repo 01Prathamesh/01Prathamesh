@@ -157,9 +157,7 @@ I'm comfortable working with a wide range of technologies. Below are the program
 <!-- Operating Systems -->
 <h4>Operating Systems</h4>
 <a href="https://www.linux.org" target="_blank" rel="noreferrer">
-    <div style="background-color: white; padding: 5px;">
-        <img src="https://www.freepnglogos.com/uploads/linux-png/difference-between-linux-and-window-operating-system-3.png" alt="Linux" width="40" height="40">
-    </div>
+    <img src="https://www.freepnglogos.com/uploads/linux-png/difference-between-linux-and-window-operating-system-3.png" alt="Linux" width="40" height="40" style="border: 2px solid white;">
 </a>
 <a href="https://www.microsoft.com/windows" target="_blank" rel="noreferrer">
     <img src="https://www.freeiconspng.com/thumbs/windows-icon-png/cute-ball-windows-icon-png-16.png" alt="Windows" width="40" height="40">
