@@ -18,6 +18,7 @@ Feel free to check out my projects and connect with me! 🚀
 </p>
 
 <hr style="border: 3px solid grey;">
+
 ## Languages & Tools I Use
 I'm comfortable working with a wide range of technologies. Below are the programming languages, frameworks, databases, and tools I use in my daily development process:
 
@@ -25,180 +26,141 @@ I'm comfortable working with a wide range of technologies. Below are the program
 <h4>Programming Languages</h4>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40">
-    <p>C</p>
 </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40">
-    <p>C++</p>
 </a>
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40">
-    <p>C#</p>
 </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40">
-    <p>Python</p>
 </a>
 <a href="https://www.javascript.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40">
-    <p>JavaScript</p>
 </a>
 
 <!-- Frameworks & Libraries -->
 <h4>Frameworks & Libraries</h4>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="ReactJS" width="40" height="40">
-    <p>ReactJS</p>
 </a>
 <a href="https://angular.io/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="AngularJS" width="40" height="40">
-    <p>AngularJS</p>
 </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="40" height="40">
-    <p>NodeJS</p>
 </a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40">
-    <p>Django</p>
 </a>
 <a href="https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet-framework" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" alt="Django" width="40" height="40">
-    <p>.NET Framework</p>
 </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40">
-    <p>Figma</p>
 </a>
 <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express" width="60" height="40">
-    <p>Express</p>
 </a>
 <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer">
     <img src="https://www.django-rest-framework.org/img/logo.png" alt="Django REST Framework" width="90" height="40">
-    <p>Django REST Framework</p>
 </a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" width="40" height="40">
-    <p>Bootstrap</p>
 </a>
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
     <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="60" height="40">
-    <p>FastAPI</p>
 </a>
 
 <!-- Databases & Cloud Platforms -->
 <h4>Databases & Cloud Platforms</h4>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40">
-    <p>MongoDB</p>
 </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40">
-    <p>MySQL</p>
 </a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40">
-    <p>PostgreSQL</p>
 </a>
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40">
-    <p>Google Cloud</p>
 </a>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40">
-    <p>AWS</p>
 </a>
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40">
-    <p>Azure</p>
 </a>
 <a href="https://railway.app" target="_blank" rel="noreferrer">
     <img src="https://railway.app/brand/logo-dark.svg" alt="Railway" width="40" height="40">
-    <p>Railway</p>
 </a>
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
     <img src="https://e7.pngegg.com/pngimages/890/928/png-clipart-sqlite-logo-sqlite-logo-icons-logos-emojis-tech-companies.png" alt="SQLite" width="40" height="40">
-    <p>SQLite</p>
 </a>
 
 <!-- Cloud Storage -->
 <h4>Cloud Storage</h4>
 <a href="https://aws.amazon.com/s3/" target="_blank" rel="noreferrer">
     <img src="https://miro.medium.com/v2/resize:fit:1280/0*lrhD8e1zlemTCUvT.png" alt="AWS S3" width="40" height="40">
-    <p>AWS S3</p>
 </a>
 
 <!-- Tools -->
 <h4>Tools</h4>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40">
-    <p>Git</p>
 </a>
 <a href="https://github.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="40" height="40">
-    <p>GitHub</p>
 </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40">
-    <p>Docker</p>
 </a>
 <!-- <a href="https://pillow.readthedocs.io" target="_blank" rel="noreferrer">
     <img src="https://pillow.readthedocs.io/en/stable/_static/pillow-logo.png" alt="Pillow" width="40" height="40">
-    <p>Pillow</p>
 </a>
 <a href="https://www.npmjs.com/package/body-parser" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/26552444?s=200&v=4" alt="body-parser" width="40" height="40">
-    <p>Body-Parser</p>
 </a>
 <a href="https://dotenv.org" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/npm/dotenv-logo@1.0.0/dotenv-logo.svg" alt="dotenv" width="40" height="40">
-    <p>dotenv</p>
 </a>
 <a href="https://motor.readthedocs.io/en/stable/" target="_blank" rel="noreferrer">
     <img src="https://motor.readthedocs.io/en/stable/_static/motor_logo.png" alt="Motor" width="40" height="40">
-    <p>Motor</p>
 </a>
 <a href="https://www.uvicorn.org/" target="_blank" rel="noreferrer">
     <img src="https://www.uvicorn.org/_static/uvicorn-logo.12f10731.svg" alt="Uvicorn" width="40" height="40">
-    <p>Uvicorn</p>
 </a>
 <a href="https://pydantic-docs.helpmanual.io/" target="_blank" rel="noreferrer">
     <img src="https://pydantic-docs.helpmanual.io/_images/pydantic-logo.png" alt="Pydantic" width="40" height="40">
-    <p>Pydantic</p>
 </a> -->
 
 <!-- Mobile Development -->
 <h4>Mobile Development</h4>
 <a href="https://dotnet.microsoft.com/en-us/maui" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/dotnet/maui/main/Assets/icon.png" alt=".NET MAUI" width="40" height="40">
-    <p>.NET MAUI</p>
 </a>
 <a href="https://learn.microsoft.com/en-us/dotnet/desktop/xaml/?view=netdesktop-7.0" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/XAML_Logo.svg" alt="XAML" width="40" height="40">
-    <p>XAML</p>
 </a>
 
 <!-- Hosting Platforms -->
 <h4>Hosting Platforms</h4>
 <a href="https://vercel.com" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/354512/vercel.svg" alt="Vercel" width="40" height="40">
-    <p>Vercel</p>
 </a>
 <a href="https://www.netlify.com" target="_blank" rel="noreferrer">
     <img src="https://logowik.com/content/uploads/images/netlify-icon5435.logowik.com.webp" alt="Netlify" width="40" height="40">
-    <p>Netlify</p>
 </a>
 
 <!-- Operating Systems -->
 <h4>Operating Systems</h4>
 <a href="https://www.linux.org" target="_blank" rel="noreferrer">
     <img src="https://www.freepnglogos.com/uploads/linux-png/difference-between-linux-and-window-operating-system-3.png" alt="Linux" width="40" height="40">
-    <p>Linux</p>
 </a>
 <a href="https://www.microsoft.com/windows" target="_blank" rel="noreferrer">
     <img src="https://www.freeiconspng.com/thumbs/windows-icon-png/cute-ball-windows-icon-png-16.png" alt="Windows" width="40" height="40">
-    <p>Windows</p>
 </a>
 
 <hr style="border: 3px solid grey;">
