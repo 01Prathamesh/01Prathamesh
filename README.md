@@ -209,10 +209,10 @@ I'm comfortable working with a wide range of technologies. Below are the program
 ## GitHub Stats
 
 <!-- GitHub Readme Most used language Stats -->
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=01Prathamesh&show_icons=true&locale=en&layout=compact&v=1" alt="01Prathamesh" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=01Prathamesh&show_icons=true&locale=en&layout=compact&v=123456789" alt="01Prathamesh" /></p>
 
 <!-- GitHub README stats card specifically displaying general statistics about their GitHub account, such as the number of public repositories, followers, stars, etc. -->
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=01Prathamesh&show_icons=true&locale=en&v=1" alt="01Prathamesh" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=01Prathamesh&show_icons=true&locale=en&v=123456789" alt="01Prathamesh" /></p>
 
 <!-- GitHub Streak Stats Card: This card visualizes a contribution streak, which tracks how many consecutive days a user has made contributions (such as commits, pull requests, or issues) on GitHub. -->
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=01Prathamesh&v=1" alt="01Prathamesh" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=01Prathamesh&v=123456789" alt="01Prathamesh" /></p>
