@@ -114,27 +114,12 @@ I'm comfortable working with a wide range of technologies. Below are the program
 <a href="https://github.com/" target="_blank" rel="noreferrer">
     <img src="https://media.licdn.com/dms/image/D5612AQHXyBgH7mnUqg/article-cover_image-shrink_720_1280/0/1691804305878?e=2147483647&v=beta&t=Sy3bXZgFG3usM3i761wUl18W3I-vdBtWtBOGDMnTuCk" alt="GitHub" width="40" height="40">
 </a>
+<a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/VirtualBox_logo_2014.svg" alt="VirtualBox" width="40" height="40">
+</a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40">
 </a>
-<!-- <a href="https://pillow.readthedocs.io" target="_blank" rel="noreferrer">
-    <img src="https://pillow.readthedocs.io/en/stable/_static/pillow-logo.png" alt="Pillow" width="40" height="40">
-</a>
-<a href="https://www.npmjs.com/package/body-parser" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/26552444?s=200&v=4" alt="body-parser" width="40" height="40">
-</a>
-<a href="https://dotenv.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/dotenv-logo@1.0.0/dotenv-logo.svg" alt="dotenv" width="40" height="40">
-</a>
-<a href="https://motor.readthedocs.io/en/stable/" target="_blank" rel="noreferrer">
-    <img src="https://motor.readthedocs.io/en/stable/_static/motor_logo.png" alt="Motor" width="40" height="40">
-</a>
-<a href="https://www.uvicorn.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.uvicorn.org/_static/uvicorn-logo.12f10731.svg" alt="Uvicorn" width="40" height="40">
-</a>
-<a href="https://pydantic-docs.helpmanual.io/" target="_blank" rel="noreferrer">
-    <img src="https://pydantic-docs.helpmanual.io/_images/pydantic-logo.png" alt="Pydantic" width="40" height="40">
-</a> -->
 
 <!-- Mobile Development -->
 <h4>Mobile Development</h4>
