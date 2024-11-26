@@ -112,7 +112,10 @@ I'm comfortable working with a wide range of technologies. Below are the program
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40">
 </a>
 <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://media.licdn.com/dms/image/D5612AQHXyBgH7mnUqg/article-cover_image-shrink_720_1280/0/1691804305878?e=2147483647&v=beta&t=Sy3bXZgFG3usM3i761wUl18W3I-vdBtWtBOGDMnTuCk" alt="GitHub" width="40" height="40">
+    <img src="https://media.licdn.com/dms/image/D5612AQHXyBgH7mnUqg/article-cover_image-shrink_720_1280/0/1691804305878?e=2147483647&v=beta&t=Sy3bXZgFG3usM3i761wUl18W3I-vdBtWtBOGDMnTuCk" alt="GitHub" width="60" height="40">
+</a>
+<a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer">
+    <img src="https://banner2.cleanpng.com/20180628/uvo/aayh5mwd4.webp" alt="VirtualBox" width="60" height="40">
 </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40">
