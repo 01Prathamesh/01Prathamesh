@@ -13,7 +13,7 @@ Feel free to check out my projects and connect with me! 🚀
 
 <p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=01Prathamesh" alt="01Prathamesh" />
+        <img src="https://github-profile-trophy.vercel.app/?username=01Prathamesh&v=999" alt="01Prathamesh" />
     </a>
 </p>
 
@@ -117,24 +117,6 @@ I'm comfortable working with a wide range of technologies. Below are the program
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40">
 </a>
-<!-- <a href="https://pillow.readthedocs.io" target="_blank" rel="noreferrer">
-    <img src="https://pillow.readthedocs.io/en/stable/_static/pillow-logo.png" alt="Pillow" width="40" height="40">
-</a>
-<a href="https://www.npmjs.com/package/body-parser" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/26552444?s=200&v=4" alt="body-parser" width="40" height="40">
-</a>
-<a href="https://dotenv.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/dotenv-logo@1.0.0/dotenv-logo.svg" alt="dotenv" width="40" height="40">
-</a>
-<a href="https://motor.readthedocs.io/en/stable/" target="_blank" rel="noreferrer">
-    <img src="https://motor.readthedocs.io/en/stable/_static/motor_logo.png" alt="Motor" width="40" height="40">
-</a>
-<a href="https://www.uvicorn.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.uvicorn.org/_static/uvicorn-logo.12f10731.svg" alt="Uvicorn" width="40" height="40">
-</a>
-<a href="https://pydantic-docs.helpmanual.io/" target="_blank" rel="noreferrer">
-    <img src="https://pydantic-docs.helpmanual.io/_images/pydantic-logo.png" alt="Pydantic" width="40" height="40">
-</a> -->
 
 <!-- Mobile Development -->
 <h4>Mobile Development</h4>
@@ -209,10 +191,10 @@ I'm comfortable working with a wide range of technologies. Below are the program
 ## GitHub Stats
 
 <!-- GitHub Readme Most used language Stats -->
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=01Prathamesh&show_icons=true&locale=en&layout=compact&v=1" alt="01Prathamesh" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=01Prathamesh&show_icons=true&locale=en&layout=compact&v=999" alt="01Prathamesh" /></p>
 
 <!-- GitHub README stats card specifically displaying general statistics about their GitHub account, such as the number of public repositories, followers, stars, etc. -->
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=01Prathamesh&show_icons=true&locale=en&v=1" alt="01Prathamesh" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=01Prathamesh&show_icons=true&locale=en&v=999" alt="01Prathamesh" /></p>
 
 <!-- GitHub Streak Stats Card: This card visualizes a contribution streak, which tracks how many consecutive days a user has made contributions (such as commits, pull requests, or issues) on GitHub. -->
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=01Prathamesh&v=1" alt="01Prathamesh" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=01Prathamesh&v=999" alt="01Prathamesh" /></p>
