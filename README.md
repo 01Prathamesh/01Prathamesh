@@ -22,6 +22,7 @@ Feel free to check out my projects and connect with me! 🚀
 ## Languages & Tools I Use
 I'm comfortable working with a wide range of technologies. Below are the programming languages, frameworks, databases, and tools I use in my daily development process:
 
+<div style="text-align: center;">
 <!-- Programming Languages -->
 <h4>Programming Languages</h4>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -147,7 +148,7 @@ I'm comfortable working with a wide range of technologies. Below are the program
 <a href="https://www.microsoft.com/windows" target="_blank" rel="noreferrer">
     <img src="https://www.freeiconspng.com/thumbs/windows-icon-png/cute-ball-windows-icon-png-16.png" alt="Windows" width="40" height="40">
 </a>
-
+</div>
 <hr style="border: 3px solid grey;">
 
 
