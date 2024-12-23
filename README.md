@@ -6,7 +6,7 @@ Feel free to check out my projects and connect with me! 🚀
 
 ---
 
-## Profile Views & Achievements
+<!-- ## Profile Views & Achievements
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=01Prathamesh&label=Profile%20views&color=0e75b6&style=flat" alt="01Prathamesh" />
 </p>
@@ -17,7 +17,7 @@ Feel free to check out my projects and connect with me! 🚀
     </a>
 </p>
 
-<hr style="border: 3px solid grey;">
+<hr style="border: 3px solid grey;"> -->
 
 ## Languages & Tools I Use
 I'm comfortable working with a wide range of technologies. Below are the programming languages, frameworks, databases, and tools I use in my daily development process:
