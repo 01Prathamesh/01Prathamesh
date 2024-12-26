@@ -43,6 +43,7 @@ I'm comfortable working with a wide range of technologies. Below are the program
 
 <!-- Frameworks & Libraries -->
 <h4>Frameworks & Libraries</h4>
+<h5>Web Frameworks:</h5>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="ReactJS" width="40" height="40">
 </a>
@@ -58,24 +59,26 @@ I'm comfortable working with a wide range of technologies. Below are the program
 <a href="https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet-framework" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" alt="Django" width="40" height="40">
 </a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40">
-</a>
 <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express" width="60" height="40">
 </a>
 <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer">
     <img src="https://www.django-rest-framework.org/img/logo.png" alt="Django REST Framework" width="90" height="40">
 </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" width="40" height="40">
-</a>
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
     <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="60" height="40">
+</a>
+<h5>UI/UX:</h5>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40">
+</a>
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" width="40" height="40">
 </a>
 
 <!-- Databases & Cloud Platforms -->
 <h4>Databases & Cloud Platforms</h4>
+<h5>Databases:</h5>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40">
 </a>
@@ -85,11 +88,16 @@ I'm comfortable working with a wide range of technologies. Below are the program
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40">
 </a>
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40">
+<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+    <img src="https://e7.pngegg.com/pngimages/890/928/png-clipart-sqlite-logo-sqlite-logo-icons-logos-emojis-tech-companies.png" alt="SQLite" width="40" height="40">
 </a>
+
+<h5>Cloud Platforms:</h5>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40">
+</a>
+<a href="https://cloud.google.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40">
 </a>
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40">
@@ -97,38 +105,34 @@ I'm comfortable working with a wide range of technologies. Below are the program
 <a href="https://railway.app" target="_blank" rel="noreferrer">
     <img src="https://railway.app/apple-touch-icon.png" alt="Railway" width="40" height="40">
 </a>
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://e7.pngegg.com/pngimages/890/928/png-clipart-sqlite-logo-sqlite-logo-icons-logos-emojis-tech-companies.png" alt="SQLite" width="40" height="40">
-</a>
-
-<!-- Cloud Storage -->
-<h4>Cloud Storage</h4>
-<a href="https://aws.amazon.com/s3/" target="_blank" rel="noreferrer">
-    <img src="https://miro.medium.com/v2/resize:fit:1280/0*lrhD8e1zlemTCUvT.png" alt="AWS S3" width="40" height="40">
-</a>
 
 <!-- Tools -->
 <h4>Tools</h4>
+<h5>Version Control:</h5>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40">
 </a>
 <a href="https://github.com/" target="_blank" rel="noreferrer">
     <img src="https://media.licdn.com/dms/image/D5612AQHXyBgH7mnUqg/article-cover_image-shrink_720_1280/0/1691804305878?e=2147483647&v=beta&t=Sy3bXZgFG3usM3i761wUl18W3I-vdBtWtBOGDMnTuCk" alt="GitHub" width="60" height="40">
 </a>
+
+<h5>Containers & Virtualization:</h5>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40">
+</a>
 <a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer">
     <img src="https://banner2.cleanpng.com/20180628/uvo/aayh5mwd4.webp" alt="VirtualBox" width="60" height="40">
 </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40">
+
+<h5>Cloud Storage:</h5>
+<a href="https://aws.amazon.com/s3/" target="_blank" rel="noreferrer">
+    <img src="https://miro.medium.com/v2/resize:fit:1280/0*lrhD8e1zlemTCUvT.png" alt="AWS S3" width="40" height="40">
 </a>
 
 <!-- Mobile Development -->
 <h4>Mobile Development</h4>
 <a href="https://dotnet.microsoft.com/en-us/maui" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/dotnet/maui/main/Assets/icon.png" alt=".NET MAUI" width="40" height="40">
-</a>
-<a href="https://learn.microsoft.com/en-us/dotnet/desktop/xaml/?view=netdesktop-7.0" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/XAML_Logo.svg" alt="XAML" width="40" height="40">
 </a>
 
 <!-- Hosting Platforms -->
