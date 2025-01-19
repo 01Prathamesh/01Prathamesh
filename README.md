@@ -183,8 +183,8 @@ I'm comfortable working with a wide range of technologies. Below are the program
         <strong>LinkedIn</strong>
       </td>
       <td style="padding: 10px;">
-        <a href="https://github.com/01Prathamesh/01Prathamesh/raw/main/my-resume/Prathamesh Kasar Resume.pdf">
-          <img src="https://img.shields.io/badge/Resume-008000?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
+        <a href="https://drive.google.com/file/d/1K4W-KC1bkXIuSN0imZv5rq5f-abEYxHl/view?usp=drive_link" target="_blank">
+            <img src="https://img.shields.io/badge/Resume-008000?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
         </a>
         <br>
         <strong>Resume</strong>
