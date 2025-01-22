@@ -9,9 +9,9 @@ Feel free to check out my projects and connect with me! 🚀
 <p align="center">
     <picture>
         <!-- Image for light mode -->
-        <source srcset="/assets/image/logo3.png" media="(prefers-color-scheme: light)">
+        <source srcset="/assets/image/Logo3.png" media="(prefers-color-scheme: light)">
         <!-- Image for dark mode -->
-        <source srcset="/assets/image/logo2.png" media="(prefers-color-scheme: dark)">
+        <source srcset="/assets/image/Logo2.png" media="(prefers-color-scheme: dark)">
         <!-- Fallback image for browsers that don't support <picture> or no media query match -->
         <img src="/assets/image/Logo1.jpg" alt="My Project Logo" width="2200">
     </picture>
