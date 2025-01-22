@@ -6,18 +6,19 @@ Feel free to check out my projects and connect with me! 🚀
 
 ---
 
-<!-- ## Profile Views & Achievements
+
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=01Prathamesh&label=Profile%20views&color=0e75b6&style=flat" alt="01Prathamesh" />
 </p>
-
+ 
+## Achievements
 <p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=01Prathamesh&v=999" alt="01Prathamesh" />
     </a>
 </p>
 
-<hr style="border: 3px solid grey;"> -->
+<hr style="border: 3px solid grey;">
 
 ## Languages & Tools I Use
 I'm comfortable working with a wide range of technologies. Below are the programming languages, frameworks, databases, and tools I use in my daily development process:
@@ -195,14 +196,19 @@ I'm comfortable working with a wide range of technologies. Below are the program
 
 ---
 
+## GitHub Stats
 
-<!-- ## GitHub Stats -->
+### Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=01Prathamesh&show_icons=true&locale=en&layout=compact&v=999" alt="01Prathamesh" />
+</p>
 
-<!-- GitHub Readme Most used language Stats -->
-<!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=01Prathamesh&show_icons=true&locale=en&layout=compact&v=999" alt="01Prathamesh" /></p> -->
+### General GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=01Prathamesh&show_icons=true&locale=en&v=999" alt="01Prathamesh" />
+</p>
 
-<!-- GitHub README stats card specifically displaying general statistics about their GitHub account, such as the number of public repositories, followers, stars, etc. -->
-<!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=01Prathamesh&show_icons=true&locale=en&v=999" alt="01Prathamesh" /></p> -->
-
-<!-- GitHub Streak Stats Card: This card visualizes a contribution streak, which tracks how many consecutive days a user has made contributions (such as commits, pull requests, or issues) on GitHub. -->
-<!-- <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=01Prathamesh&v=999" alt="01Prathamesh" /></p> -->
+### GitHub Contribution Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=01Prathamesh&v=999" alt="01Prathamesh" />
+</p>
