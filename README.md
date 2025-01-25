@@ -13,7 +13,7 @@ Feel free to check out my projects and connect with me! 🚀
 ## Achievements
 <p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=01Prathamesh&v=999" alt="01Prathamesh" />
+        <img src="https://github-profile-trophy.vercel.app/?username=01Prathamesh&&theme=algolia&v=999" alt="01Prathamesh" />
     </a>
 </p>
 
@@ -199,15 +199,15 @@ I'm comfortable working with a wide range of technologies. Below are the program
 
 ### Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=01Prathamesh&show_icons=true&locale=en&layout=compact&v=999" alt="01Prathamesh" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=01Prathamesh&layout=compact&theme=tokyonight&v=999" alt="01Prathamesh" />
 </p>
 
 ### General GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=01Prathamesh&show_icons=true&locale=en&v=999" alt="01Prathamesh" />
+  <img src="https://github-readme-stats.vercel.app/api?username=01Prathamesh&show_icons=true&theme=radical&v=999" alt="01Prathamesh" />
 </p>
 
 ### GitHub Contribution Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=01Prathamesh&v=999" alt="01Prathamesh" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=01Prathamesh&theme=radical&v=999" alt="01Prathamesh" />
 </p>
