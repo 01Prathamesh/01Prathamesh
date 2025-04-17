@@ -183,7 +183,7 @@ I'm comfortable working with a wide range of technologies. Below are the program
         <strong>LinkedIn</strong>
       </td>
       <td style="padding: 10px;">
-        <a href="https://drive.google.com/file/d/1K4W-KC1bkXIuSN0imZv5rq5f-abEYxHl/view?usp=drive_link" target="_blank">
+        <a href="https://drive.google.com/file/d/1dOYtfXw9zFRazJPfqdvMAZaaONYrzS8m/view?usp=sharing" target="_blank">
             <img src="https://img.shields.io/badge/Resume-008000?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
         </a>
         <br>
