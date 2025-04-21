@@ -155,6 +155,13 @@ I'm comfortable working with a wide range of technologies. Below are the program
 </div>
 <hr style="border: 3px solid grey;">
 
+## 🚀 Featured Projects
+
+- [Career Dendrogram](https://github.com/01Prathamesh/Career_Dendrogram_Project) – Django app for career path visualization.
+- [ECommerce AtoZ](https://github.com/01Prathamesh/ECommerce_AtoZ) – Full-featured online store with checkout & login.
+- [school_blog_API](https://github.com/01Prathamesh/school_blog_API) – FastAPI backend with async MongoDB.
+- [restaurant-website](https://github.com/01Prathamesh/restaurant-website) – Live deployed modern restaurant frontend site.
+
 
 ## Connect With Me
 <!-- Responsive Table -->
