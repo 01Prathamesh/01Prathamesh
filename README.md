@@ -2,7 +2,9 @@
 
 Welcome to my GitHub! I'm **Prathamesh Kasar**, a passionate full-stack developer who loves solving real-world problems using powerful backend technologies.
 
-🌐 **Portfolio Website**: [prathamesh-kasar-portfolio.vercel.app](https://prathamesh-kasar-portfolio.vercel.app)
+🌐 **Portfolio**:  Checkout my personal website with all project demos, skills, and interactive UI:  
+👉 [https://prathamesh-kasar-portfolio.vercel.app](https://prathamesh-kasar-portfolio.vercel.app)
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=01Prathamesh&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -67,7 +69,7 @@ Welcome to my GitHub! I'm **Prathamesh Kasar**, a passionate full-stack develope
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/01Prathamesh)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathamesh-kasar-DSA)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prathameshkasar.work@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-008000?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1dOYtfXw9zFRazJPfqdvMAZaaONYrzS8m/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-008000?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1frXb24ETZwmhmivNKtw8RIA8gzQIzYAz/view?usp=sharing)
 
 ---
 
