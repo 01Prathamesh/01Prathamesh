@@ -71,7 +71,7 @@ Welcome to my GitHub! I'm **Prathamesh Kasar**, a passionate full-stack develope
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/PrathameshCode)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@PrathameshKasar_work)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prathameshkasar.work@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-008000?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1FRMCgRArYSas94urqGu0STE0htXVdq8G/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-008000?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/13DJPSwzFAyNcVtFl_gze0TkezOFUyA05/view?usp=sharing)
 
 ---
 
